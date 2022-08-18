@@ -1,0 +1,14 @@
+{
+  "blockchains": [
+    {
+      "id": "BTC",
+      "name": "Bitcoin",
+      "enabled": false
+    },
+    {
+      "id": "ADA",
+      "name": "Cardano",
+      "enabled": ""
+    }
+  ]
+}
